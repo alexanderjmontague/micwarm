@@ -40,3 +40,7 @@ Requires macOS 13 or later.
 - `main.swift`: the whole app (device selection, keepalive stream, lock/sleep handling, menu)
 - `make_icon.swift`: draws the app icon
 - `build.sh`: compiles, bundles, signs ad hoc, and installs
+
+## License
+
+MIT
